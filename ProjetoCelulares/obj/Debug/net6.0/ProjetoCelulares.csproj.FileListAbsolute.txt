@@ -1,0 +1,15 @@
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\bin\Debug\net6.0\ProjetoCelulares.exe
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\bin\Debug\net6.0\ProjetoCelulares.deps.json
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\bin\Debug\net6.0\ProjetoCelulares.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\bin\Debug\net6.0\ProjetoCelulares.dll
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\bin\Debug\net6.0\ProjetoCelulares.pdb
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\obj\Debug\net6.0\ProjetoCelulares.csproj.AssemblyReference.cache
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\obj\Debug\net6.0\ProjetoCelulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\obj\Debug\net6.0\ProjetoCelulares.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\obj\Debug\net6.0\ProjetoCelulares.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\obj\Debug\net6.0\ProjetoCelulares.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\obj\Debug\net6.0\ProjetoCelulares.dll
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\obj\Debug\net6.0\refint\ProjetoCelulares.dll
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\obj\Debug\net6.0\ProjetoCelulares.pdb
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\obj\Debug\net6.0\ProjetoCelulares.genruntimeconfig.cache
+C:\Users\VINICIUS\Desktop\C#\DIO\VSCommunity\ProjetoCelulares\ProjetoCelulares\ProjetoCelulares\obj\Debug\net6.0\ref\ProjetoCelulares.dll
